@@ -70,4 +70,4 @@ print('Test_loss:', score[0])
 print('Test_accuracy:', score[1])
 
 model.save("saved_models/2/")
-model.save("1.pkl")
+model.save("mnist.pkl")
